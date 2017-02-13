@@ -7,11 +7,11 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://chemestrymon79.ed-era.com/1/vstup.html">Вступ</a></li>
-<li><a href="https://chemestrymon79.ed-era.com/1/khimichni_znannya.html">Початкові хімічні поняття</a></li>
-<li><a href="https://chemestrymon79.ed-era.com/1/kysen.html">Кисень</a></li>
-<li><a href="https://chemestrymon79.ed-era.com/1/voda.html">Вода</a></li>
-<li><a href="https://chemestrymon79.ed-era.com/1/ekskursiyi.html">Орієнтовні об’єкти екскурсій</a></li>
+<li><a href="https://chemestrymonu79.ed-era.com/1/vstup.html">Вступ</a></li>
+<li><a href="https://chemestrymonu79.ed-era.com/1/khimichni_znannya.html">Початкові хімічні поняття</a></li>
+<li><a href="https://chemestrymonu79.ed-era.com/1/kysen.html">Кисень</a></li>
+<li><a href="https://chemestrymonu79.ed-era.com/1/voda.html">Вода</a></li>
+<li><a href="https://chemestrymonu79.ed-era.com/1/ekskursiyi.html">Орієнтовні об’єкти екскурсій</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
